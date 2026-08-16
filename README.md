@@ -146,7 +146,7 @@ git branch -M main
 git push -u origin main
 ```
 
-> Note: If the repository already exists and contains different files, use `git pull` or change the branch/repository configuration as needed. If you have SSH access, replace the HTTPS URL with your SSH repository URL.
+> Note: If the repository already exists and contains different files, use `git_pull` or change the branch/repository configuration as needed. If you have SSH access, replace the HTTPS URL with your SSH repository URL.
 
 ## 💡 Additional Recommendations
 
